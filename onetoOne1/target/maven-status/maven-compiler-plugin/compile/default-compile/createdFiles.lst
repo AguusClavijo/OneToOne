@@ -1,0 +1,5 @@
+com\onetoOne1\onetoOne1\model\Vehiculo.class
+com\onetoOne1\onetoOne1\ServletInitializer.class
+com\onetoOne1\onetoOne1\repository\VehiculoRepository.class
+com\onetoOne1\onetoOne1\model\Registro.class
+com\onetoOne1\onetoOne1\OnetoOne1Application.class
